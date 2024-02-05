@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "kafka-clusters-411917",
+  "private_key_id": "07e538145ff1a199795ad822ced8298f17a8dfdb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC0OvcRANwM+f2F\nkebCqo4xwHJ7MLtucmdjWhCLBS/b96SmX21eAvf0dlqHCghNBbmIFnlY1nirvEOo\nhdq6tmCligT3erA8Gg3bMltVZdgVdwnfbs80vJMHybUsNK6knzgftAV3PSsCv/Bb\ncaUj4JEk6osU6SP85ZCLaxeocj4b+qUM+oIukkTBFJNisp7g6/M4VcAHHZ9pIpDc\nImGtU6rDR7pwiF9+8TUQ5DIZtL5Hmwx8WHpO8hU3/kQdXtl/NwwYtFTsQH8Vr6J9\nSC3pnyx11iA5uBV3iRQDlt8BoZVTb1/v3Zxb0ayQwi/OqlWVhP25N84ZqwSDmvyW\nqps5KQwjAgMBAAECggEAU0FR1Dbzb8Mji8okMRScbvsZZzLRwmlyvQBj1/RjcVdq\nZbh7SwxQAkuR8gN+ZiYY2HaZQ6J/R8XF81kx+0I4Tv/83117f6gBcppGeqJ7OR8u\nHlqPuSrLOLPCz1LewgkS4gJE7BoDflev7m4G/RXFtqnp6ZTxHOfm56Bm41cyvbU3\n9Y9YF+Nv9RC5WfCHqVY+SInFU42FrVTalGEMyIHVutmlGMRJKPjmlZ/WbjcVxEOh\nXBMyTqtYGhLtVcLVF39W0YVzKdMISPULuqItzrjwVldpDTm/0s+X1h0SbpN34UHW\nwYwFLSxqERu1Z7uOuXzO30DnqV9Rg094wHoyGnRJkQKBgQD8VXCLV9U1VBFaaKK4\n6MGA/SbrUGixnHfeUeLJ6xd1FTvBcI+xYVoFMojaMFUlOi5BZrAzBK17IK4w/Pyd\nU9JOl7SPvMZJ8ogytuI+vz42OSxP08nZbkxgdkpsOX3oPy+dNlGI9FLDDZmPagez\nCZQL+fOKCTASuRXjkV3njp7JvwKBgQC22VXcU7TtQkle8Gf/Umj9ocFGWj2WBJdI\ncHozXyQxPjqD9sbBhSkO+EvrRGYknhAvbVv7+zCA8pIfMiyIFelP9M/Eg94bZaQ+\nLJlx8KJaNgkv5V/KhELralmvnjKsYSsLB5clrSBycAQXgq4dTbD6tcfixCFaY0M5\nZB5KMjkunQKBgQCBiasZHaIKmnm+G/FNU8/i1BLiwoi8hULUEt2GIvYL2Tav+4UI\n3p1EBclTmXRchB2y3XCfAEu+5ewGohlc+ucACclb8OEqnSNmRZSn+a2KUJd685Kv\n2HvFGXTjUjBcxfM/ld8Nm7/Q+m5WvWvucYBbFZn8xvKy6elexgWbFhBWKQKBgHaH\n5PTy/nJfahi1V3VYAt+IIDZvAUVirH81CsKKhne1k1FAhA+nNrqRkwVsTZqnLG7S\nQbLTXtn4ZWj7qYp+ScSfOqB1q2GvPg1f9Ai8qUI5jTMTSkmJ+6eIRaNmtgqw4qo/\nvWebF1GX888Z060DVBryBCWoZsalWkq18DzA2fixAoGBAIjW5RObowNQO3U1styD\nvKWyZ9hL2kjPuympflVzyZbXcM/12BrjsZgwHM84y/FRY9tCLYQ3OGVEv/q/I+3e\ns9JG2mKITwJT+gqakmTMxQ+vIXxSCNzUh8ifga7xQXyVjpRhKyXkRSx4kKeRvy2H\nNGc8X3YQS1cBf/+2FLCZB2IS\n-----END PRIVATE KEY-----\n",
+  "client_email": "smartmeter@kafka-clusters-411917.iam.gserviceaccount.com",
+  "client_id": "116505743618560511166",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/smartmeter%40kafka-clusters-411917.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
